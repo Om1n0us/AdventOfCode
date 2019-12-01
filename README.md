@@ -1,3 +1,3 @@
-### AdventOfCode-2019
-# AdventOfCode-2019
+### AdventOfCode
+# AdventOfCode
 ``https://adventofcode.com``
