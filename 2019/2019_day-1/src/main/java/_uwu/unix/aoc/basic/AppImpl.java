@@ -23,7 +23,7 @@ public class AppImpl implements App {
 
     @Override
     public void onLoad() throws IOException {
-        Files.readAllLines(Paths.get("day1-data.txt"))
+        Files.readAllLines(Paths.get("2019_day1-data.txt"))
                 .forEach(string -> this.moduleList.add(new ModuleImpl(Integer.parseInt(string))));
 
         this.logger.info(String.format("Part One: %d", this.partOne()));

@@ -6,8 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="day-1" />
+        <module name="_2015_day1" />
+        <module name="_2019_day1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day-1" target="13" />
+      <module name="day1" target="13" />
+    </bytecodeTargetLevel>
   </component>
 </project>

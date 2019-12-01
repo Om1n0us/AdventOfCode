@@ -7,6 +7,13 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/2015/day1/pom.xml" />
+        <option value="$PROJECT_DIR$/2019/day-1/pom.xml" />
+        <option value="$PROJECT_DIR$/day-1/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_13_PREVIEW" default="false" project-jdk-name="13" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

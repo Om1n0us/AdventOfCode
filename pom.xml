@@ -23,6 +23,7 @@
         </plugins>
     </build>
     <modules>
-        <module>day-1</module>
+        <module>2019</module>
+        <module>2015</module>
     </modules>
 </project>
